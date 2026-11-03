@@ -1,0 +1,423 @@
+﻿Match_Date,Opposition,Venue,Batting_Position,Runs,Balls_Faced,Fours,Sixes,Strike_Rate,Previous_Match_Runs,Last_3_Match_Avg,Last_5_Match_Avg,Format
+2011-09-25,West Indies,Kennington Oval,7,13,11,1,0,118.18,,,,T20I
+2012-02-21,Pakistan,Dubai International Cricket Stadium,5,0,2,0,0,0,13,,,ODI
+2012-02-23,Pakistan,Dubai International Cricket Stadium,6,3,4,0,0,75,0,,,T20I
+2012-02-25,Pakistan,Dubai International Cricket Stadium,7,7,8,1,0,87.5,3,5.33,,T20I
+2012-02-27,Pakistan,Sheikh Zayed Stadium,6,7,13,0,0,53.85,7,3.33,,T20I
+2012-06-24,West Indies,Trent Bridge,5,0,0,0,0,,7,5.67,6,T20I
+2012-09-08,South Africa,Riverside Ground,6,6,9,0,0,66.67,0,4.67,3.4,T20I
+2012-09-12,South Africa,Edgbaston,5,32,10,2,3,320,6,4.33,4.6,T20I
+2012-09-23,India,R Premadasa Stadium,6,11,12,1,0,91.67,32,12.67,10.4,T20I
+2012-09-27,West Indies,Pallekele International Cricket Stadium,6,1,1,0,0,100,11,16.33,11.2,T20I
+2012-09-29,New Zealand,Pallekele International Cricket Stadium,5,5,8,0,0,62.5,1,14.67,10,T20I
+2012-10-01,Sri Lanka,Pallekele International Cricket Stadium,7,8,7,0,0,114.29,5,5.67,11,T20I
+2012-12-20,India,Subrata Roy Sahara Stadium,6,33,21,0,3,157.14,8,4.67,11.4,T20I
+2012-12-22,India,Wankhede Stadium,6,15,7,1,1,214.29,33,15.33,11.6,T20I
+2013-01-23,India,"Punjab Cricket Association Stadium, Mohali",7,14,9,1,1,155.56,15,18.67,12.4,ODI
+2013-02-09,New Zealand,Eden Park,6,32,16,2,3,200,14,20.67,15,T20I
+2013-02-12,New Zealand,Seddon Park,6,54,30,9,1,180,32,20.33,20.4,T20I
+2013-02-17,New Zealand,Seddon Park,6,21,13,0,2,161.54,54,33.33,29.6,ODI
+2013-02-23,New Zealand,Eden Park,6,3,4,0,0,75,21,35.67,27.2,ODI
+2013-05-31,New Zealand,Lord's,6,14,25,1,0,56,3,26,24.8,ODI
+2013-06-02,New Zealand,The Rose Bowl,6,2,3,0,0,66.67,14,12.67,24.8,ODI
+2013-06-05,New Zealand,Trent Bridge,7,47,16,6,3,293.75,2,6.33,18.8,ODI
+2013-06-08,Australia,Edgbaston,7,1,2,0,0,50,47,21,17.4,ODI
+2013-06-13,Sri Lanka,Kennington Oval,6,0,2,0,0,0,1,16.67,13.4,ODI
+2013-06-16,New Zealand,Sophia Gardens,6,14,9,2,0,155.56,0,16,12.8,ODI
+2013-06-23,India,Edgbaston,7,0,1,0,0,0,14,5,12.8,ODI
+2013-06-25,New Zealand,Kennington Oval,6,17,10,1,1,170,0,4.67,12.4,T20I
+2013-08-29,Australia,The Rose Bowl,7,27,17,1,2,158.82,17,10.33,6.4,T20I
+2013-08-31,Australia,Riverside Ground,5,0,1,0,0,0,27,14.67,11.6,T20I
+2013-09-08,Australia,Old Trafford,7,75,65,5,3,115.38,0,14.67,11.6,ODI
+2013-09-14,Australia,Sophia Gardens,7,65,48,5,2,135.42,75,34,23.8,ODI
+2013-09-16,Australia,The Rose Bowl,7,42,37,4,0,113.51,65,46.67,36.8,ODI
+2014-01-12,Australia,Melbourne Cricket Ground,8,34,24,1,1,141.67,42,60.67,41.8,ODI
+2014-01-17,Australia,"Brisbane Cricket Ground, Woolloongabba",7,49,36,3,1,136.11,34,47,43.2,ODI
+2014-01-19,Australia,Sydney Cricket Ground,7,4,8,0,0,50,49,41.67,53,ODI
+2014-01-24,Australia,Western Australia Cricket Association Ground,7,71,43,6,4,165.12,4,29,38.8,ODI
+2014-01-26,Australia,Adelaide Oval,7,5,9,0,0,55.56,71,41.33,40,ODI
+2014-01-29,Australia,Bellerive Oval,6,20,14,1,1,142.86,5,26.67,32.6,T20I
+2014-01-31,Australia,Melbourne Cricket Ground,6,22,27,2,0,81.48,20,32,29.8,T20I
+2014-02-02,Australia,Stadium Australia,6,8,9,1,0,88.89,22,15.67,24.4,T20I
+2014-02-28,West Indies,"Sir Vivian Richards Stadium, North Sound",6,12,17,1,0,70.59,8,16.67,25.2,ODI
+2014-03-02,West Indies,"Sir Vivian Richards Stadium, North Sound",6,0,1,0,0,0,12,14,13.4,ODI
+2014-03-05,West Indies,"Sir Vivian Richards Stadium, North Sound",6,99,84,7,4,117.86,0,6.67,12.4,ODI
+2014-03-09,West Indies,"Kensington Oval, Bridgetown",5,0,3,0,0,0,99,37,28.2,T20I
+2014-03-11,West Indies,"Kensington Oval, Bridgetown",5,67,43,5,3,155.81,0,33,23.8,T20I
+2014-03-13,West Indies,"Kensington Oval, Bridgetown",4,3,8,0,0,37.5,67,55.33,35.6,T20I
+2014-03-22,New Zealand,Zahur Ahmed Chowdhury Stadium,5,32,23,4,0,139.13,3,23.33,33.8,T20I
+2014-03-27,Sri Lanka,Zahur Ahmed Chowdhury Stadium,5,2,3,0,0,66.67,32,34,40.2,T20I
+2014-03-29,South Africa,Zahur Ahmed Chowdhury Stadium,5,34,24,2,1,141.67,2,12.33,20.8,T20I
+2014-03-31,Netherlands,Zahur Ahmed Chowdhury Stadium,5,6,14,0,0,42.86,34,22.67,27.6,T20I
+2014-05-09,Scotland,Mannofield Park,4,9,5,1,0,180,6,14,15.4,ODI
+2014-05-20,Sri Lanka,Kennington Oval,6,26,16,4,0,162.5,9,16.33,16.6,T20I
+2014-05-22,Sri Lanka,Kennington Oval,7,26,20,1,1,130,26,13.67,15.4,ODI
+2014-05-25,Sri Lanka,Riverside Ground,7,4,6,1,0,66.67,26,20.33,20.2,ODI
+2014-05-31,Sri Lanka,Lord's,7,121,74,11,4,163.51,4,18.67,14.2,ODI
+2014-06-03,Sri Lanka,Edgbaston,7,21,24,1,0,87.5,121,50.33,37.2,ODI
+2014-07-27,India,The Rose Bowl,7,85,83,9,3,102.41,21,48.67,39.6,Test
+2014-08-07,India,Old Trafford,8,70,130,10,0,53.85,85,75.67,51.4,Test
+2014-08-15,India,Kennington Oval,7,45,73,9,0,61.64,70,58.67,60.2,Test
+2014-08-27,India,Sophia Gardens,6,2,9,0,0,22.22,45,66.67,68.4,ODI
+2014-08-30,India,Trent Bridge,6,42,58,3,0,72.41,2,39,44.6,ODI
+2014-09-02,India,Edgbaston,6,11,24,0,0,45.83,42,29.67,48.8,ODI
+2014-09-05,India,Headingley,6,49,40,5,2,122.5,11,18.33,34,ODI
+2014-09-07,India,Edgbaston,6,10,15,0,0,66.67,49,34,29.8,T20I
+2014-11-26,Sri Lanka,R Premadasa Stadium,6,21,21,1,1,100,10,23.33,22.8,ODI
+2014-11-29,Sri Lanka,R Premadasa Stadium,7,7,14,0,0,50,21,26.67,26.6,ODI
+2014-12-03,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",7,55,37,9,0,148.65,7,12.67,19.6,ODI
+2014-12-07,Sri Lanka,R Premadasa Stadium,7,15,22,0,1,68.18,55,27.67,28.4,ODI
+2014-12-10,Sri Lanka,Pallekele International Cricket Stadium,7,2,1,0,0,200,15,25.67,21.6,ODI
+2014-12-13,Sri Lanka,Pallekele International Cricket Stadium,7,22,26,2,0,84.62,2,24,20,ODI
+2014-12-16,Sri Lanka,R Premadasa Stadium,7,23,23,2,0,100,22,13,20.2,ODI
+2015-01-16,Australia,Sydney Cricket Ground,7,28,60,0,0,46.67,23,15.67,23.4,ODI
+2015-01-23,Australia,Bellerive Oval,6,25,24,2,0,104.17,28,24.33,18,ODI
+2015-01-30,India,Western Australia Cricket Association Ground,7,67,78,7,0,85.9,25,25.33,20,ODI
+2015-02-01,Australia,Western Australia Cricket Association Ground,7,17,22,3,0,77.27,67,40,33,ODI
+2015-02-14,Australia,Melbourne Cricket Ground,7,10,12,1,0,83.33,17,36.33,32,ODI
+2015-02-20,New Zealand,Westpac Stadium,7,3,7,0,0,42.86,10,31.33,29.4,ODI
+2015-02-23,Scotland,Hagley Oval,7,24,14,4,0,171.43,3,10,24.4,ODI
+2015-03-01,Sri Lanka,Westpac Stadium,7,39,19,6,1,205.26,24,12.33,24.2,ODI
+2015-03-09,Bangladesh,Adelaide Oval,7,65,52,6,1,125,39,22,18.6,ODI
+2015-04-13,West Indies,"Sir Vivian Richards Stadium, North Sound",8,0,22,0,0,0,65,42.67,28.2,Test
+2015-04-13,West Indies,"Sir Vivian Richards Stadium, North Sound",7,59,56,5,2,105.36,0,34.67,26.2,Test
+2015-04-21,West Indies,"National Cricket Stadium, St George's",8,13,30,1,0,43.33,59,41.33,37.4,Test
+2015-05-01,West Indies,"Kensington Oval, Bridgetown",8,3,25,0,0,12,13,24,35.2,Test
+2015-05-01,West Indies,"Kensington Oval, Bridgetown",8,35,42,4,2,83.33,3,25,28,Test
+2015-05-21,New Zealand,Lord's,7,67,126,9,0,53.17,35,17,22,Test
+2015-05-21,New Zealand,Lord's,7,14,18,2,0,77.78,67,35,35.4,Test
+2015-05-29,New Zealand,Headingley,7,10,26,1,0,38.46,14,38.67,26.4,Test
+2015-05-29,New Zealand,Headingley,7,73,147,13,1,49.66,10,30.33,25.8,Test
+2015-06-09,New Zealand,Edgbaston,6,129,77,13,5,167.53,73,32.33,39.8,ODI
+2015-06-12,New Zealand,Kennington Oval,6,41,38,4,1,107.89,129,70.67,58.6,ODI
+2015-06-14,New Zealand,The Rose Bowl,6,13,10,2,0,130,41,81,53.4,ODI
+2015-07-08,Australia,Sophia Gardens,7,27,34,3,0,79.41,13,61,53.2,Test
+2015-07-08,Australia,Sophia Gardens,7,7,19,0,0,36.84,27,27,56.6,Test
+2015-07-16,Australia,Lord's,7,13,26,3,0,50,7,15.67,43.4,Test
+2015-07-16,Australia,Lord's,7,11,9,2,0,122.22,13,15.67,20.2,Test
+2015-07-29,Australia,Edgbaston,7,9,38,1,0,23.68,11,10.33,14.2,Test
+2015-08-06,Australia,Trent Bridge,8,12,11,3,0,109.09,9,11,13.4,Test
+2015-08-20,Australia,Kennington Oval,7,1,3,0,0,33.33,12,10.67,10.4,Test
+2015-08-20,Australia,Kennington Oval,7,42,107,4,0,39.25,1,7.33,9.2,Test
+2015-08-31,Australia,Sophia Gardens,5,11,4,1,1,275,42,18.33,15,T20I
+2015-09-03,Australia,The Rose Bowl,6,4,10,0,0,40,11,18,15,ODI
+2015-09-05,Australia,Lord's,6,0,3,0,0,0,4,19,14,ODI
+2015-10-13,Pakistan,Sheikh Zayed Stadium,8,23,28,3,1,82.14,0,5,11.6,Test
+2015-10-13,Pakistan,Sheikh Zayed Stadium,2,4,5,1,0,80,23,9,16,Test
+2015-10-22,Pakistan,Dubai International Cricket Stadium,7,0,9,0,0,0,4,9,8.4,Test
+2015-10-22,Pakistan,Dubai International Cricket Stadium,7,7,26,1,0,26.92,0,9,6.2,Test
+2015-11-11,Pakistan,Sheikh Zayed Stadium,6,1,2,0,0,50,7,3.67,6.8,ODI
+2015-11-13,Pakistan,Sheikh Zayed Stadium,5,11,10,1,0,110,1,2.67,7,ODI
+2015-11-17,Pakistan,Sharjah Cricket Stadium,6,49,50,2,1,98,11,6.33,4.6,ODI
+2015-11-20,Pakistan,Dubai International Cricket Stadium,4,116,52,10,8,223.08,49,20.33,13.6,ODI
+2015-11-27,Pakistan,Dubai International Cricket Stadium,5,33,22,1,3,150,116,58.67,36.8,T20I
+2015-11-30,Pakistan,Sharjah Cricket Stadium,6,2,3,0,0,66.67,33,66,42,T20I
+2015-11-30,Pakistan,Sharjah Cricket Stadium,2,1,2,0,0,50,2,50.33,42.2,T20I
+2016-02-03,South Africa,Mangaung Oval,4,105,76,11,5,138.16,1,12,40.2,ODI
+2016-02-06,South Africa,St George's Park,6,48,28,4,3,171.43,105,36,51.4,ODI
+2016-02-09,South Africa,SuperSport Park,4,0,1,0,0,0,48,51.33,37.8,ODI
+2016-02-12,South Africa,New Wanderers Stadium,6,1,6,0,0,16.67,0,51,31.2,ODI
+2016-02-14,South Africa,Newlands,6,0,1,0,0,0,1,16.33,31,ODI
+2016-02-19,South Africa,Newlands,6,32,30,2,0,106.67,0,0.33,30.8,T20I
+2016-02-21,South Africa,New Wanderers Stadium,5,54,28,4,4,192.86,32,11,16.2,T20I
+2016-03-16,West Indies,Wankhede Stadium,4,30,20,0,3,150,54,28.67,17.4,T20I
+2016-03-18,South Africa,Wankhede Stadium,6,21,14,1,1,150,30,38.67,23.4,T20I
+2016-03-26,Sri Lanka,Feroz Shah Kotla,4,66,37,8,2,178.38,21,35,27.4,T20I
+2016-03-30,New Zealand,Feroz Shah Kotla,5,32,17,2,3,188.24,66,39,40.6,T20I
+2016-04-03,West Indies,Eden Gardens,5,36,22,1,3,163.64,32,39.67,40.6,T20I
+2016-06-21,Sri Lanka,Trent Bridge,6,93,99,6,1,93.94,36,44.67,37,ODI
+2016-06-29,Sri Lanka,Kennington Oval,6,17,8,2,0,212.5,93,53.67,49.6,ODI
+2016-07-02,Sri Lanka,Sophia Gardens,6,70,45,7,1,155.56,17,48.67,48.8,ODI
+2016-07-05,Sri Lanka,The Rose Bowl,2,73,49,3,4,148.98,70,60,49.6,T20I
+2016-08-27,Pakistan,Lord's,6,4,5,0,0,80,73,53.33,57.8,ODI
+2016-08-30,Pakistan,Trent Bridge,4,90,51,7,7,176.47,4,49,51.4,ODI
+2016-09-07,Pakistan,Old Trafford,4,16,15,2,0,106.67,90,55.67,50.8,T20I
+2016-10-07,Bangladesh,Shere Bangla National Stadium,6,63,38,3,4,165.79,16,36.67,50.6,ODI
+2016-10-09,Bangladesh,Shere Bangla National Stadium,6,57,57,7,0,100,63,56.33,49.2,ODI
+2016-10-12,Bangladesh,Zahur Ahmed Chowdhury Stadium,6,25,26,3,0,96.15,57,45.33,46,ODI
+2016-11-26,India,"Punjab Cricket Association IS Bindra Stadium, Mohali",7,43,80,5,0,53.75,25,48.33,50.2,Test
+2016-11-26,India,"Punjab Cricket Association IS Bindra Stadium, Mohali",7,18,18,1,1,100,43,41.67,40.8,Test
+2016-12-08,India,Wankhede Stadium,7,76,137,6,1,55.47,18,28.67,41.2,Test
+2016-12-08,India,Wankhede Stadium,8,6,17,0,0,35.29,76,45.67,43.8,Test
+2016-12-16,India,"MA Chidambaram Stadium, Chepauk",7,5,17,0,0,29.41,6,33.33,33.6,Test
+2016-12-16,India,"MA Chidambaram Stadium, Chepauk",7,6,50,0,0,12,5,29,29.6,Test
+2017-01-15,India,Maharashtra Cricket Association Stadium,5,31,36,1,2,86.11,6,5.67,22.2,ODI
+2017-01-19,India,Barabati Stadium,6,10,9,1,0,111.11,31,14,24.8,ODI
+2017-01-22,India,Eden Gardens,5,11,15,1,0,73.33,10,15.67,11.6,ODI
+2017-01-29,India,"Vidarbha Cricket Association Stadium, Jamtha",6,15,10,1,1,150,11,17.33,12.6,T20I
+2017-02-01,India,M Chinnaswamy Stadium,5,0,2,0,0,0,15,12,14.6,T20I
+2017-03-03,West Indies,"Sir Vivian Richards Stadium, North Sound",5,14,19,0,0,73.68,0,8.67,13.4,ODI
+2017-03-05,West Indies,"Sir Vivian Richards Stadium, North Sound",6,0,7,0,0,0,14,9.67,10,ODI
+2017-03-09,West Indies,"Kensington Oval, Bridgetown",4,7,5,0,1,140,0,4.67,8,ODI
+2017-05-24,South Africa,Headingley,6,7,7,1,0,100,7,7,7.2,ODI
+2017-05-27,South Africa,The Rose Bowl,6,65,53,7,0,122.64,7,4.67,5.6,ODI
+2017-05-29,South Africa,Lord's,6,4,4,1,0,100,65,26.33,18.6,ODI
+2017-06-06,New Zealand,Sophia Gardens,6,61,48,2,2,127.08,4,25.33,16.6,ODI
+2017-06-10,Australia,Edgbaston,6,29,32,3,1,90.63,61,43.33,28.8,ODI
+2017-06-14,Pakistan,Sophia Gardens,6,4,7,0,0,57.14,29,31.33,33.2,ODI
+2017-06-23,South Africa,County Ground,5,10,8,1,0,125,4,31.33,32.6,T20I
+2017-06-25,South Africa,Sophia Gardens,4,31,22,1,2,140.91,10,14.33,21.6,T20I
+2017-09-16,West Indies,Riverside Ground,5,30,27,2,0,111.11,31,15,27,T20I
+2017-09-24,West Indies,County Ground,6,2,4,0,0,50,30,23.67,20.8,ODI
+2017-09-27,West Indies,Kennington Oval,5,43,35,5,0,122.86,2,21,15.4,ODI
+2018-01-14,Australia,Melbourne Cricket Ground,6,4,10,0,0,40,43,25,23.2,ODI
+2018-01-19,Australia,"Brisbane Cricket Ground, Woolloongabba",6,42,32,5,0,131.25,4,16.33,22,ODI
+2018-01-21,Australia,Sydney Cricket Ground,6,100,83,6,4,120.48,42,29.67,24.2,ODI
+2018-01-26,Australia,Adelaide Oval,6,0,2,0,0,0,100,48.67,38.2,ODI
+2018-01-28,Australia,Perth Stadium,6,21,25,1,1,84,0,47.33,37.8,ODI
+2018-02-07,Australia,Bellerive Oval,5,5,7,0,0,71.43,21,40.33,33.4,T20I
+2018-02-10,Australia,Melbourne Cricket Ground,5,46,49,3,0,93.88,5,8.67,33.6,T20I
+2018-02-13,New Zealand,Westpac Stadium,5,2,4,0,0,50,46,24,34.4,T20I
+2018-02-18,New Zealand,Seddon Park,5,2,5,0,0,40,2,17.67,14.8,T20I
+2018-02-25,New Zealand,Seddon Park,6,79,65,5,5,121.54,2,16.67,15.2,ODI
+2018-02-28,New Zealand,Bay Oval,6,36,20,2,3,180,79,27.67,26.8,ODI
+2018-03-03,New Zealand,Westpac Stadium,6,29,23,3,1,126.09,36,39,33,ODI
+2018-03-07,New Zealand,University Oval,4,0,2,0,0,0,29,48,29.6,ODI
+2018-05-24,Pakistan,Lord's,7,14,15,2,0,93.33,0,21.67,29.2,Test
+2018-05-24,Pakistan,Lord's,7,67,138,6,0,48.55,14,14.33,31.6,Test
+2018-06-01,Pakistan,Headingley,7,80,101,11,2,79.21,67,27,29.2,Test
+2018-06-13,Australia,Kennington Oval,6,9,11,2,0,81.82,80,53.67,38,ODI
+2018-06-16,Australia,Sophia Gardens,5,91,70,8,2,130,9,52,34,ODI
+2018-06-19,Australia,Trent Bridge,4,11,12,0,1,91.67,91,60,52.2,ODI
+2018-06-21,Australia,Riverside Ground,6,54,29,9,1,186.21,11,37,51.6,ODI
+2018-06-24,Australia,Old Trafford,6,110,122,12,1,90.16,54,52,49,ODI
+2018-06-27,Australia,Edgbaston,2,61,30,6,5,203.33,110,58.33,55,T20I
+2018-07-03,India,Old Trafford,2,69,46,8,2,150,61,75,65.4,T20I
+2018-07-06,India,Sophia Gardens,2,14,12,3,0,116.67,69,80,61,T20I
+2018-07-08,India,County Ground,2,34,21,7,0,161.9,14,48,61.6,T20I
+2018-07-12,India,Trent Bridge,6,53,51,5,0,103.92,34,39,57.6,ODI
+2018-07-14,India,Lord's,6,4,7,0,0,57.14,53,33.67,46.2,ODI
+2018-08-01,India,Edgbaston,7,0,2,0,0,0,4,30.33,34.8,Test
+2018-08-01,India,Edgbaston,7,1,2,0,0,50,0,19,21,Test
+2018-08-09,India,Lord's,6,24,22,4,0,109.09,1,1.67,18.4,Test
+2018-08-18,India,Trent Bridge,7,39,32,3,2,121.88,24,8.33,16.4,Test
+2018-08-18,India,Trent Bridge,6,106,176,21,0,60.23,39,21.33,13.6,Test
+2018-08-30,India,The Rose Bowl,6,21,24,3,0,87.5,106,56.33,34,Test
+2018-08-30,India,The Rose Bowl,7,69,122,7,0,56.56,21,55.33,38.2,Test
+2018-09-07,India,Kennington Oval,7,89,133,6,2,66.92,69,65.33,51.8,Test
+2018-09-07,India,Kennington Oval,7,0,2,0,0,0,89,59.67,64.8,Test
+2018-10-13,Sri Lanka,Rangiri Dambulla International Stadium,6,28,25,2,0,112,0,52.67,57,ODI
+2018-10-23,Sri Lanka,"R.Premadasa Stadium, Khettarama",4,0,2,0,0,0,28,39,41.4,ODI
+2018-10-27,Sri Lanka,"R.Premadasa Stadium, Khettarama",2,13,7,3,0,185.71,0,9.33,37.2,T20I
+2018-11-06,Sri Lanka,Galle International Stadium,6,38,72,4,0,52.78,13,13.67,26,Test
+2018-11-06,Sri Lanka,Galle International Stadium,6,35,58,2,1,60.34,38,17,15.8,Test
+2018-11-14,Sri Lanka,Pallekele International Cricket Stadium,5,63,67,7,0,94.03,35,28.67,22.8,Test
+2018-11-14,Sri Lanka,Pallekele International Cricket Stadium,6,34,45,3,0,75.56,63,45.33,29.8,Test
+2018-11-23,Sri Lanka,Sinhalese Sports Club Ground,6,16,26,2,0,61.54,34,44,36.6,Test
+2018-11-23,Sri Lanka,Sinhalese Sports Club Ground,6,64,79,3,0,81.01,16,37.67,37.2,Test
+2019-01-23,West Indies,"Kensington Oval, Barbados",6,4,14,1,0,28.57,64,38,42.4,Test
+2019-01-23,West Indies,"Kensington Oval, Barbados",6,26,32,4,0,81.25,4,28,36.2,Test
+2019-01-31,West Indies,"Sir Vivian Richards Stadium, Antigua",5,1,12,0,0,8.33,26,31.33,28.8,Test
+2019-01-31,West Indies,"Sir Vivian Richards Stadium, Antigua",5,24,48,5,0,50,1,10.33,22.2,Test
+2019-02-09,West Indies,"Daren Sammy National Cricket Stadium, St Lucia",5,67,127,9,0,52.76,24,17,23.8,Test
+2019-02-09,West Indies,"Daren Sammy National Cricket Stadium, St Lucia",5,56,115,5,0,48.7,67,30.67,24.4,Test
+2019-02-20,West Indies,"Kensington Oval, Barbados",6,4,1,1,0,400,56,49,34.8,ODI
+2019-02-22,West Indies,"Kensington Oval, Barbados",6,34,33,2,2,103.03,4,42.33,30.4,ODI
+2019-02-27,West Indies,"National Cricket Stadium, Grenada",5,150,77,13,12,194.81,34,31.33,37,ODI
+2019-03-02,West Indies,"Darren Sammy National Cricket Stadium, St Lucia",6,23,36,1,0,63.89,150,62.67,62.2,ODI
+2019-05-11,Pakistan,The Rose Bowl,5,110,55,6,9,200,23,69,53.4,ODI
+2019-05-17,Pakistan,Trent Bridge,5,0,2,0,0,0,110,94.33,64.2,ODI
+2019-05-19,Pakistan,Headingley,5,34,34,4,1,100,0,44.33,63.4,ODI
+2019-05-30,South Africa,Kennington Oval,6,18,16,0,0,112.5,34,48,63.4,ODI
+2019-06-03,Pakistan,Trent Bridge,6,103,76,9,2,135.53,18,17.33,37,ODI
+2019-06-08,Bangladesh,Sophia Gardens,4,64,44,2,4,145.45,103,51.67,53,ODI
+2019-06-21,Sri Lanka,Headingley,6,10,9,1,0,111.11,64,61.67,43.8,ODI
+2019-06-25,Australia,Lord's,6,25,27,2,0,92.59,10,59,45.8,ODI
+2019-06-30,India,Edgbaston,6,20,8,1,2,250,25,33,44,ODI
+2019-07-03,New Zealand,Riverside Ground,4,11,12,1,0,91.67,20,18.33,44.4,ODI
+2019-07-14,New Zealand,Lord's,6,59,60,6,0,98.33,11,18.67,26,ODI
+2019-07-14,New Zealand,Lord's,2,7,3,1,0,233.33,59,30,25,ODI
+2019-08-01,Australia,Edgbaston,5,5,10,1,0,50,7,25.67,24.4,Test
+2019-08-01,Australia,Edgbaston,5,1,25,0,0,4,5,23.67,20.4,Test
+2019-08-14,Australia,Lord's,5,12,23,1,0,52.17,1,4.33,16.6,Test
+2019-08-14,Australia,Lord's,6,31,108,3,0,28.7,12,6,16.8,Test
+2019-08-22,Australia,Headingley,7,5,16,1,0,31.25,31,14.67,11.2,Test
+2019-08-22,Australia,Headingley,7,1,9,0,0,11.11,5,16,10.8,Test
+2019-09-04,Australia,Old Trafford,8,41,65,7,0,63.08,1,12.33,10,Test
+2019-09-04,Australia,Old Trafford,7,34,111,4,0,30.63,41,15.67,18,Test
+2019-09-12,Australia,Kennington Oval,6,70,98,7,3,71.43,34,25.33,22.4,Test
+2019-09-12,Australia,Kennington Oval,6,47,63,6,0,74.6,70,48.33,30.2,Test
+2019-11-21,New Zealand,Bay Oval,7,43,70,5,1,61.43,47,50.33,38.6,Test
+2019-11-21,New Zealand,Bay Oval,8,0,18,0,0,0,43,53.33,47,Test
+2019-12-26,South Africa,SuperSport Park,7,12,39,2,0,30.77,0,30,38.8,Test
+2019-12-26,South Africa,SuperSport Park,7,22,33,2,2,66.67,12,18.33,34.4,Test
+2020-01-03,South Africa,Newlands,7,29,27,4,1,107.41,22,11.33,24.8,Test
+2020-01-03,South Africa,Newlands,8,23,18,0,2,127.78,29,21,21.2,Test
+2020-01-16,South Africa,St George's Park,7,1,15,0,0,6.67,23,24.67,17.2,Test
+2020-01-24,South Africa,The Wanderers Stadium,7,20,43,3,0,46.51,1,17.67,17.4,Test
+2020-01-24,South Africa,The Wanderers Stadium,7,8,10,1,0,80,20,14.67,19,Test
+2020-02-12,South Africa,Buffalo Park,2,15,10,3,0,150,8,9.67,16.2,T20I
+2020-02-14,South Africa,Kingsmead,2,2,4,0,0,50,15,14.33,13.4,T20I
+2020-02-16,South Africa,SuperSport Park,2,57,29,9,2,196.55,2,8.33,9.2,T20I
+2020-07-08,West Indies,The Rose Bowl,7,35,47,6,0,74.47,57,24.67,20.4,Test
+2020-07-08,West Indies,The Rose Bowl,7,9,13,2,0,69.23,35,31.33,23.4,Test
+2020-07-16,West Indies,Old Trafford,7,40,79,4,0,50.63,9,33.67,23.6,Test
+2020-07-16,West Indies,Old Trafford,2,0,3,0,0,0,40,28,28.6,Test
+2020-07-24,West Indies,Old Trafford,6,67,142,7,2,47.18,0,16.33,28.2,Test
+2020-08-05,Pakistan,Old Trafford,6,38,108,5,0,35.19,67,35.67,30.2,Test
+2020-08-05,Pakistan,Old Trafford,6,75,101,7,1,74.26,38,35,30.8,Test
+2020-08-13,Pakistan,The Rose Bowl,6,0,13,0,0,0,75,60,44,Test
+2020-08-21,Pakistan,The Rose Bowl,6,152,311,13,2,48.87,0,37.67,36,Test
+2020-09-04,Australia,The Rose Bowl,1,44,29,5,2,151.72,152,75.67,66.4,T20I
+2020-09-06,Australia,The Rose Bowl,1,77,54,8,2,142.59,44,65.33,61.8,T20I
+2020-09-11,Australia,Old Trafford,5,1,4,0,0,25,77,91,69.6,ODI
+2020-09-13,Australia,Old Trafford,5,3,7,0,0,42.86,1,40.67,54.8,ODI
+2020-09-16,Australia,Old Trafford,5,8,20,0,0,40,3,27,55.4,ODI
+2020-11-27,South Africa,Newlands,2,7,6,1,0,116.67,8,4,26.6,T20I
+2020-11-29,South Africa,Boland Park,2,22,15,4,0,146.67,7,6,19.2,T20I
+2020-12-01,South Africa,Newlands,2,67,46,3,5,145.65,22,12.33,8.2,T20I
+2021-01-14,Sri Lanka,Galle International Stadium,6,30,57,3,0,52.63,67,32,21.4,Test
+2021-01-22,Sri Lanka,Galle International Stadium,6,55,95,7,0,57.89,30,39.67,26.8,Test
+2021-01-22,Sri Lanka,Galle International Stadium,6,46,48,5,0,95.83,55,50.67,36.2,Test
+2021-02-05,India,MA Chidambaram Stadium,7,30,51,5,0,58.82,46,43.67,44,Test
+2021-02-05,India,MA Chidambaram Stadium,7,24,40,2,1,60,30,43.67,45.6,Test
+2021-03-12,India,Narendra Modi Stadium,2,28,24,2,1,116.67,24,33.33,37,T20I
+2021-03-14,India,Narendra Modi Stadium,2,0,1,0,0,0,28,27.33,36.6,T20I
+2021-03-16,India,Narendra Modi Stadium,2,83,52,5,4,159.62,0,17.33,25.6,T20I
+2021-03-18,India,Narendra Modi Stadium,2,9,6,0,1,150,83,37,33,T20I
+2021-03-20,India,Narendra Modi Stadium,2,52,34,2,4,152.94,9,30.67,28.8,T20I
+2021-03-23,India,Maharashtra Cricket Association Stadium,5,2,4,0,0,50,52,48,34.4,ODI
+2021-03-26,India,Maharashtra Cricket Association Stadium,5,0,3,0,0,0,2,21,29.2,ODI
+2021-03-28,India,Maharashtra Cricket Association Stadium,5,15,18,2,0,83.33,0,18,29.2,ODI
+2021-06-23,Sri Lanka,"Sophia Gardens, Cardiff",2,68,55,8,1,123.64,15,5.67,15.6,T20I
+2021-07-18,Pakistan,"Headingley, Leeds",2,59,39,7,2,151.28,68,27.67,27.4,T20I
+2021-07-20,Pakistan,"Old Trafford, Manchester",2,21,22,3,0,95.45,59,47.33,28.8,T20I
+2021-08-04,India,"Trent Bridge, Nottingham",7,0,18,0,0,0,21,49.33,32.6,Test
+2021-08-04,India,"Trent Bridge, Nottingham",7,17,22,3,0,77.27,0,26.67,32.6,Test
+2021-08-12,India,"Lord's, London",6,23,42,4,0,54.76,17,12.67,33,Test
+2021-08-12,India,"Lord's, London",6,25,96,3,0,26.04,23,13.33,24,Test
+2021-08-25,India,"Headingley, Leeds",6,7,12,1,0,58.33,25,21.67,17.2,Test
+2021-10-23,West Indies,Dubai International Cricket Stadium,2,24,22,3,0,109.09,7,18.33,14.4,T20I
+2021-10-27,Bangladesh,"Zayed Cricket Stadium, Abu Dhabi",2,18,18,1,1,100,24,18.67,19.2,T20I
+2021-10-30,Australia,Dubai International Cricket Stadium,2,71,32,5,5,221.88,18,16.33,19.4,T20I
+2021-11-01,Sri Lanka,Sharjah Cricket Stadium,2,101,67,6,6,150.75,71,37.67,29,T20I
+2021-11-06,South Africa,Sharjah Cricket Stadium,2,26,15,3,1,173.33,101,63.33,44.2,T20I
+2021-11-10,New Zealand,"Zayed Cricket Stadium, Abu Dhabi",1,29,24,4,0,120.83,26,66,48,T20I
+2021-12-08,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",7,39,58,5,0,67.24,29,52,49,Test
+2021-12-08,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",7,23,39,4,0,58.97,39,31.33,53.2,Test
+2021-12-16,Australia,Adelaide Oval,7,0,15,0,0,0,23,30.33,43.6,Test
+2021-12-16,Australia,Adelaide Oval,7,26,207,2,0,12.56,0,20.67,23.4,Test
+2021-12-26,Australia,Melbourne Cricket Ground,7,3,11,0,0,27.27,26,16.33,23.4,Test
+2021-12-26,Australia,Melbourne Cricket Ground,8,5,14,1,0,35.71,3,9.67,18.2,Test
+2022-01-05,Australia,Sydney Cricket Ground,7,0,8,0,0,0,5,11.33,11.4,Test
+2022-01-05,Australia,Sydney Cricket Ground,7,11,38,0,0,28.95,0,2.67,6.8,Test
+2022-06-17,Netherlands,"VRA Ground, Amstelveen",4,162,70,7,14,231.43,11,5.33,9,ODI
+2022-06-22,Netherlands,"VRA Ground, Amstelveen",4,86,64,7,5,134.38,162,57.67,36.2,ODI
+2022-07-07,India,"The Rose Bowl, Southampton",2,0,1,0,0,0,86,86.33,52.8,T20I
+2022-07-09,India,"Edgbaston, Birmingham",2,4,5,0,0,80,0,82.67,51.8,T20I
+2022-07-10,India,"Trent Bridge, Nottingham",2,18,9,2,1,200,4,30,52.6,T20I
+2022-07-12,India,"Kennington Oval, London",5,30,32,6,0,93.75,18,7.33,54,ODI
+2022-07-14,India,"Lord's, London",5,4,5,0,0,80,30,17.33,27.6,ODI
+2022-07-17,India,"Old Trafford, Manchester",5,60,80,3,2,75,4,17.33,11.2,ODI
+2022-07-19,South Africa,"Riverside Ground, Chester-le-Street",5,12,12,1,0,100,60,31.33,23.2,ODI
+2022-07-22,South Africa,"Old Trafford, Manchester",6,19,27,1,0,70.37,12,25.33,24.8,ODI
+2022-07-27,South Africa,"County Ground, Bristol",2,22,7,2,2,314.29,19,30.33,25,T20I
+2022-07-28,South Africa,"Sophia Gardens, Cardiff",2,29,14,1,3,207.14,22,17.67,23.4,T20I
+2022-07-31,South Africa,"The Rose Bowl, Southampton",2,14,10,2,0,140,29,23.33,28.4,T20I
+2022-10-09,Australia,Perth Stadium,1,68,32,8,4,212.5,14,21.67,19.2,T20I
+2022-10-12,Australia,"Manuka Oval, Canberra",1,17,13,3,0,130.77,68,37,30.4,T20I
+2022-10-14,Australia,"Manuka Oval, Canberra",1,65,41,7,1,158.54,17,33,30,T20I
+2022-10-26,Ireland,Melbourne Cricket Ground,1,0,2,0,0,0,65,50,38.6,T20I
+2022-11-01,New Zealand,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1,73,47,7,2,155.32,0,27.33,32.8,T20I
+2022-11-05,Sri Lanka,Sydney Cricket Ground,1,28,23,2,1,121.74,73,46,44.6,T20I
+2022-11-10,India,Adelaide Oval,1,80,49,9,3,163.27,28,33.67,36.6,T20I
+2022-11-13,Pakistan,Melbourne Cricket Ground,1,26,17,3,1,152.94,80,60.33,49.2,T20I
+2022-11-17,Australia,Adelaide Oval,6,29,34,2,0,85.29,26,44.67,41.4,ODI
+2022-11-22,Australia,Melbourne Cricket Ground,6,1,4,0,0,25,29,45,47.2,ODI
+2023-01-27,South Africa,"Mangaung Oval, Bloemfontein",5,36,42,4,0,85.71,1,18.67,32.8,ODI
+2023-01-29,South Africa,"Mangaung Oval, Bloemfontein",5,94,82,8,3,114.63,36,22,34.4,ODI
+2023-02-01,South Africa,"Diamond Oval, Kimberley",5,131,127,6,7,103.15,94,43.67,37.2,ODI
+2023-03-01,Bangladesh,"Shere Bangla National Stadium, Mirpur",5,9,10,1,0,90,131,87,58.2,ODI
+2023-03-03,Bangladesh,"Shere Bangla National Stadium, Mirpur",5,76,64,5,2,118.75,9,78,54.2,ODI
+2023-03-06,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",6,26,24,0,0,108.33,76,72,69.2,ODI
+2023-03-09,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",2,67,42,4,4,159.52,26,37,67.2,T20I
+2023-03-12,Bangladesh,"Shere Bangla National Stadium, Mirpur",4,4,6,0,0,66.67,67,56.33,61.8,T20I
+2023-03-14,Bangladesh,"Shere Bangla National Stadium, Mirpur",3,40,31,4,1,129.03,4,32.33,36.4,T20I
+2023-09-01,New Zealand,"Old Trafford, Manchester",6,13,8,0,1,162.5,40,37,42.6,T20I
+2023-09-03,New Zealand,"Edgbaston, Birmingham",5,40,21,3,3,190.48,13,19,30,T20I
+2023-09-08,New Zealand,"Sophia Gardens, Cardiff",5,72,68,5,2,105.88,40,31,32.8,ODI
+2023-09-10,New Zealand,"The Rose Bowl, Southampton",5,30,25,4,0,120,72,41.67,33.8,ODI
+2023-09-13,New Zealand,"Kennington Oval, London",5,38,24,6,1,158.33,30,47.33,39,ODI
+2023-09-15,New Zealand,"Lord's, London",5,36,31,3,1,116.13,38,46.67,38.6,ODI
+2023-10-05,New Zealand,"Narendra Modi Stadium, Ahmedabad",6,43,42,2,2,102.38,36,34.67,43.2,ODI
+2023-10-10,Bangladesh,"Himachal Pradesh Cricket Association Stadium, Dharamsala",4,20,10,1,1,200,43,39,43.8,ODI
+2023-10-21,South Africa,"Wankhede Stadium, Mumbai",6,15,7,2,1,214.29,20,33,33.4,ODI
+2023-10-26,Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",5,8,6,1,0,133.33,15,26,30.4,ODI
+2023-10-29,India,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",5,10,23,1,0,43.48,8,14.33,24.4,ODI
+2023-11-04,Australia,"Narendra Modi Stadium, Ahmedabad",5,1,7,0,0,14.29,10,11,19.2,ODI
+2023-11-08,Netherlands,"Maharashtra Cricket Association Stadium, Pune",6,5,11,0,0,45.45,1,6.33,10.8,ODI
+2023-11-11,Pakistan,"Eden Gardens, Kolkata",5,27,18,3,1,150,5,5.33,7.8,ODI
+2023-12-03,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",6,3,13,0,0,23.08,27,11,10.2,ODI
+2023-12-06,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",6,58,45,4,3,128.89,3,11.67,9.2,ODI
+2023-12-09,West Indies,"Kensington Oval, Bridgetown, Barbados",6,0,1,0,0,0,58,29.33,18.8,ODI
+2023-12-12,West Indies,"Kensington Oval, Bridgetown, Barbados",2,39,31,5,1,125.81,0,20.33,18.6,T20I
+2023-12-14,West Indies,"National Cricket Stadium, St George's, Grenada",2,5,7,1,0,71.43,39,32.33,25.4,T20I
+2023-12-16,West Indies,"National Cricket Stadium, St George's, Grenada",2,51,34,5,2,150,5,14.67,21,T20I
+2023-12-19,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",2,55,29,6,3,189.66,51,31.67,30.6,T20I
+2023-12-21,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",2,11,11,2,0,100,55,37,30,T20I
+2024-05-25,Pakistan,"Edgbaston, Birmingham",2,84,51,8,3,164.71,11,39,32.2,T20I
+2024-05-30,Pakistan,"Kennington Oval, London",2,39,21,7,1,185.71,84,50,41.2,T20I
+2024-06-08,Australia,"Kensington Oval, Bridgetown, Barbados",2,42,28,5,2,150,39,44.67,48,T20I
+2024-06-13,Oman,"Sir Vivian Richards Stadium, North Sound, Antigua",2,24,8,4,1,300,42,55,46.2,T20I
+2024-06-15,Namibia,"Sir Vivian Richards Stadium, North Sound, Antigua",2,0,4,0,0,0,24,35,40,T20I
+2024-06-19,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2,25,22,2,0,113.64,0,22,37.8,T20I
+2024-06-21,South Africa,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2,17,20,1,0,85,25,16.33,26,T20I
+2024-06-23,United States of America,"Kensington Oval, Bridgetown, Barbados",2,83,38,6,7,218.42,17,14,21.6,T20I
+2024-06-27,India,"Providence Stadium, Guyana",2,23,15,4,0,153.33,83,41.67,29.8,T20I
+2024-11-09,West Indies,"Kensington Oval, Bridgetown, Barbados",3,0,1,0,0,0,23,41,29.6,T20I
+2024-11-10,West Indies,"Kensington Oval, Bridgetown, Barbados",3,83,45,8,6,184.44,0,35.33,29.6,T20I
+2024-11-14,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",3,4,5,0,0,80,83,35.33,41.2,T20I
+2024-11-16,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",3,38,23,2,3,165.22,4,29,38.6,T20I
+2025-01-22,India,"Eden Gardens, Kolkata",3,68,44,8,2,154.55,38,41.67,29.6,T20I
+2025-01-25,India,"MA Chidambaram Stadium, Chepauk, Chennai",3,45,30,2,3,150,68,36.67,38.6,T20I
+2025-01-28,India,"Saurashtra Cricket Association Stadium, Rajkot",3,24,22,1,1,109.09,45,50.33,47.6,T20I
+2025-01-31,India,"Maharashtra Cricket Association Stadium, Pune",3,2,3,0,0,66.67,24,45.67,35.8,T20I
+2025-02-02,India,"Wankhede Stadium, Mumbai",3,7,7,1,0,100,2,23.67,35.4,T20I
+2025-02-06,India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",5,52,67,4,0,77.61,7,11,29.2,ODI
+2025-02-09,India,"Barabati Stadium, Cuttack",5,34,35,2,0,97.14,52,20.33,26,ODI
+2025-02-12,India,"Narendra Modi Stadium, Ahmedabad",6,6,9,0,0,66.67,34,31,23.8,ODI
+2025-02-22,Australia,"Gaddafi Stadium, Lahore",6,23,21,1,1,109.52,6,30.67,20.2,ODI
+2025-03-01,South Africa,"National Stadium, Karachi",6,21,43,0,0,48.84,23,21,24.4,ODI
+2025-05-29,West Indies,"Edgbaston, Birmingham",5,37,32,3,1,115.63,21,16.67,27.2,ODI
+2025-06-01,West Indies,"Sophia Gardens, Cardiff",5,0,8,0,0,0,37,27,24.2,ODI
+2025-06-03,West Indies,"Kennington Oval, London",5,41,20,5,2,205,0,19.33,17.4,ODI
+2025-06-06,West Indies,"Riverside Ground, Chester-le-Street",3,96,59,6,4,162.71,41,26,24.4,T20I
+2025-06-08,West Indies,"County Ground, Bristol",3,47,36,4,2,130.56,96,45.67,39,T20I
+2025-06-10,West Indies,"The Rose Bowl, Southampton",3,22,10,1,2,220,47,61.33,44.2,T20I
+2025-09-02,South Africa,"Headingley, Leeds",5,15,24,0,1,62.5,22,55,41.2,ODI
+2025-09-04,South Africa,"Lord's, London",6,61,51,3,3,119.61,15,28,44.2,ODI
+2025-09-07,South Africa,"The Rose Bowl, Southampton",6,62,32,8,1,193.75,61,32.67,48.2,ODI
+2025-09-10,South Africa,"Sophia Gardens, Cardiff",2,25,11,1,3,227.27,62,46,41.4,T20I
+2025-09-12,South Africa,"Old Trafford, Manchester",2,83,30,8,7,276.67,25,49.33,37,T20I
+2025-09-17,Ireland,"The Village, Malahide, Dublin",2,28,10,5,1,280,83,56.67,49.2,T20I
+2025-09-21,Ireland,"The Village, Malahide, Dublin",2,0,2,0,0,0,28,45.33,51.8,T20I
+2025-10-18,New Zealand,"Hagley Oval, Christchurch",2,29,25,2,1,116,0,37,39.6,T20I
+2025-10-20,New Zealand,"Hagley Oval, Christchurch",2,4,3,1,0,133.33,29,19,33,T20I
+2025-10-26,New Zealand,"Bay Oval, Mount Maunganui",6,4,8,1,0,50,4,11,28.8,ODI
+2025-10-29,New Zealand,"Seddon Park, Hamilton",6,9,10,0,1,90,4,12.33,13,ODI
+2025-11-01,New Zealand,"Sky Stadium, Wellington",6,38,56,7,0,67.86,9,5.67,9.2,ODI
+2026-01-22,Sri Lanka,"R Premadasa Stadium, Colombo",6,19,20,0,1,95,38,17,16.8,ODI
+2026-01-24,Sri Lanka,"R Premadasa Stadium, Colombo",6,33,21,3,1,157.14,19,22,14.8,ODI
+2026-01-30,Sri Lanka,Pallekele International Cricket Stadium,2,17,10,4,0,170,33,30,20.6,T20I
+2026-02-01,Sri Lanka,Pallekele International Cricket Stadium,2,39,29,6,0,134.48,17,23,23.2,T20I
+2026-02-03,Sri Lanka,Pallekele International Cricket Stadium,1,25,21,2,1,119.05,39,29.67,29.2,T20I
+2026-02-08,Nepal,"Wankhede Stadium, Mumbai",2,26,17,5,0,152.94,25,27,26.6,T20I
+2026-02-11,West Indies,"Wankhede Stadium, Mumbai",2,21,14,2,1,150,26,30,28,T20I
+2026-02-14,Scotland,"Eden Gardens, Kolkata",2,3,4,0,0,75,21,24,25.6,T20I
+2026-02-16,Italy,"Eden Gardens, Kolkata",2,3,4,0,0,75,3,16.67,22.8,T20I
+2026-02-22,Sri Lanka,Pallekele International Cricket Stadium,2,7,14,0,0,50,3,9,15.6,T20I
+2026-02-24,Pakistan,Pallekele International Cricket Stadium,2,2,3,0,0,66.67,7,4.33,12,T20I
+2026-02-27,New Zealand,"R Premadasa Stadium, Colombo",2,0,2,0,0,0,2,4,7.2,T20I
+2026-03-05,India,"Wankhede Stadium, Mumbai",2,25,17,4,1,147.06,0,3,3,T20I
+2026-07-04,India,"Old Trafford, Manchester",2,0,3,0,0,0,25,9,7.4,T20I
+2026-07-07,India,"Trent Bridge, Nottingham",2,36,21,4,2,171.43,0,8.33,6.8,T20I
+2026-07-09,India,"County Ground, Bristol",2,8,8,0,1,100,36,20.33,12.6,T20I
+2026-07-11,India,"The Rose Bowl, Southampton",2,131,64,12,8,204.69,8,14.67,13.8,T20I
+2026-07-14,India,"Edgbaston, Birmingham",5,5,14,0,0,35.71,131,58.33,40,ODI
+2026-07-16,India,"Sophia Gardens, Cardiff",6,17,18,1,1,94.44,5,48,36,ODI
+2026-07-19,India,"Lord's, London",5,41,13,4,3,315.38,17,51,39.4,ODI
+2026-09-15,Sri Lanka,"The Rose Bowl, Southampton",1,80,44,8,3,181.82,41,21,40.4,T20I
+2026-09-17,Sri Lanka,"Sophia Gardens, Cardiff",1,30,16,4,1,187.5,80,46,54.8,T20I
+2026-09-19,Sri Lanka,Old Trafford,1,62,32,7,2,193.75,30,50.33,34.6,T20I
+2026-09-22,Sri Lanka,"Riverside Ground, Chester-le-Street",5,31,33,2,0,93.94,62,57.33,46,ODI
+2026-09-24,Sri Lanka,Headingley,5,69,49,5,5,140.82,31,41,48.8,ODI
